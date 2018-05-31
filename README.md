@@ -43,4 +43,3 @@ rllab was originally developed by Rocky Duan (UC Berkeley / OpenAI), Peter Chen 
 
 Slides presented at ICML 2016: https://www.dropbox.com/s/rqtpp1jv2jtzxeg/ICML2016_benchmarking_slides.pdf?dl=0
 l to route
-dfidsji
